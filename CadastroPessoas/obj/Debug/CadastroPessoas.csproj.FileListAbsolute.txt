@@ -1,0 +1,9 @@
+C:\Users\Patty\Desktop\Repositorios C#\CSharp-Avancado-CadastroPessoas\CadastroPessoas\bin\Debug\CadastroPessoas.exe.config
+C:\Users\Patty\Desktop\Repositorios C#\CSharp-Avancado-CadastroPessoas\CadastroPessoas\bin\Debug\CadastroPessoas.exe
+C:\Users\Patty\Desktop\Repositorios C#\CSharp-Avancado-CadastroPessoas\CadastroPessoas\bin\Debug\CadastroPessoas.pdb
+C:\Users\Patty\Desktop\Repositorios C#\CSharp-Avancado-CadastroPessoas\CadastroPessoas\obj\Debug\CadastroPessoas.csprojAssemblyReference.cache
+C:\Users\Patty\Desktop\Repositorios C#\CSharp-Avancado-CadastroPessoas\CadastroPessoas\obj\Debug\CadastroPessoas.Properties.Resources.resources
+C:\Users\Patty\Desktop\Repositorios C#\CSharp-Avancado-CadastroPessoas\CadastroPessoas\obj\Debug\CadastroPessoas.csproj.GenerateResource.cache
+C:\Users\Patty\Desktop\Repositorios C#\CSharp-Avancado-CadastroPessoas\CadastroPessoas\obj\Debug\CadastroPessoas.csproj.CoreCompileInputs.cache
+C:\Users\Patty\Desktop\Repositorios C#\CSharp-Avancado-CadastroPessoas\CadastroPessoas\obj\Debug\CadastroPessoas.exe
+C:\Users\Patty\Desktop\Repositorios C#\CSharp-Avancado-CadastroPessoas\CadastroPessoas\obj\Debug\CadastroPessoas.pdb

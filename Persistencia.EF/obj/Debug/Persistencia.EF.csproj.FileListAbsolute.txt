@@ -18,3 +18,5 @@ C:\Users\Patty\Desktop\Repositorios C#\CSharp-Avancado-CadastroPessoas\Persisten
 C:\Users\Patty\Desktop\Repositorios C#\CSharp-Avancado-CadastroPessoas\Persistencia.EF\obj\Debug\Persistencia.EF.pdb
 C:\Users\Patty\Desktop\Repositorios C#\CSharp-Avancado-CadastroPessoas\Persistencia.EF\bin\Debug\Google.Protobuf.dll
 C:\Users\Patty\Desktop\Repositorios C#\CSharp-Avancado-CadastroPessoas\Persistencia.EF\bin\Debug\Google.Protobuf.xml
+C:\Users\Patty\Desktop\Repositorios C#\CSharp-Avancado-CadastroPessoas\Persistencia.EF\obj\Debug\Persistencia.EF.Migrations.Criacao_Tabela.resources
+C:\Users\Patty\Desktop\Repositorios C#\CSharp-Avancado-CadastroPessoas\Persistencia.EF\obj\Debug\Persistencia.EF.csproj.GenerateResource.cache

@@ -1,0 +1,6 @@
+C:\Users\Patty\Desktop\Repositorios C#\CSharp-Avancado-CadastroPessoas\Repositorio\bin\Debug\Repositorio.dll
+C:\Users\Patty\Desktop\Repositorios C#\CSharp-Avancado-CadastroPessoas\Repositorio\bin\Debug\Repositorio.pdb
+C:\Users\Patty\Desktop\Repositorios C#\CSharp-Avancado-CadastroPessoas\Repositorio\obj\Debug\Repositorio.csprojAssemblyReference.cache
+C:\Users\Patty\Desktop\Repositorios C#\CSharp-Avancado-CadastroPessoas\Repositorio\obj\Debug\Repositorio.csproj.CoreCompileInputs.cache
+C:\Users\Patty\Desktop\Repositorios C#\CSharp-Avancado-CadastroPessoas\Repositorio\obj\Debug\Repositorio.dll
+C:\Users\Patty\Desktop\Repositorios C#\CSharp-Avancado-CadastroPessoas\Repositorio\obj\Debug\Repositorio.pdb
