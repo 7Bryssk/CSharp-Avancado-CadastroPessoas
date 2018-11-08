@@ -8,10 +8,10 @@ namespace Dominio
 {
     public class Pessoa
     {
-        public int id { get; set; }
-        public string nome { get; set; }
-        public int idade { get; set; }
-        public string endereco { get; set; }
+        public virtual int id { get; set; }
+        public virtual string nome { get; set; }
+        public virtual int idade { get; set; }
+        public virtual string endereco { get; set; }
 
     }
 }
