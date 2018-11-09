@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Persistencia.NHibernate", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepositorioNHibernate", "RepositorioNHibernate\RepositorioNHibernate.csproj", "{3ED84764-59B6-4107-B135-2253CAE2FD62}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CadastroPessoas.WPF", "CadastroPessoas.WPF\CadastroPessoas.WPF.csproj", "{9763B520-F2FD-461A-9216-F3479CDD68AE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{3ED84764-59B6-4107-B135-2253CAE2FD62}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3ED84764-59B6-4107-B135-2253CAE2FD62}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3ED84764-59B6-4107-B135-2253CAE2FD62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9763B520-F2FD-461A-9216-F3479CDD68AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9763B520-F2FD-461A-9216-F3479CDD68AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9763B520-F2FD-461A-9216-F3479CDD68AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9763B520-F2FD-461A-9216-F3479CDD68AE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
