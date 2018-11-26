@@ -26,10 +26,27 @@ namespace CadastroPessoas
 
         private void Form1_Load(object sender, EventArgs e)
         {
+            /* Thread
             Thread thread = new Thread(PreencherDataGridView);
             thread.Start();
+            */
+
             // Sem thread
             // PreencherDataGridView
+
+            Task minhaTask = Task.Run(() =>
+            {
+                IRepositorio<Pessoa> repositorioPessoas = new PessoaRepositorio();
+                _pessoas = repositorioPessoas.SelecionarTodos();
+            });
+
+            var awaiter = minhaTask.GetAwaiter();
+            awaiter.OnCompleted(() =>
+            {
+                dgvPessoas.DataSource = _pessoas;
+                dgvPessoas.Refresh();
+            });
+
         }
 
         private void PreencherDataGridView()
@@ -42,7 +59,7 @@ namespace CadastroPessoas
             // Espera a thread anterior terminar a execução para continuar
             thread.Join();
             thread2.Join();
-            
+
             dgvPessoas.Invoke((MethodInvoker)delegate { dgvPessoas.DataSource = _pessoas; dgvPessoas.Refresh(); });
 
             // Sem thread
@@ -53,7 +70,8 @@ namespace CadastroPessoas
 
         private void PreencherListaPessoas()
         {
-            lock (locker) {
+            lock (locker)
+            {
                 IRepositorio<Pessoa> repositorioPessoas = new PessoaRepositorio();
                 List<Pessoa> pessoas = repositorioPessoas.SelecionarTodos();
                 foreach (Pessoa p in pessoas)
@@ -80,7 +98,8 @@ namespace CadastroPessoas
                         _pessoas.Add(p);
                     }
                 }
-            } catch (Exception ex)
+            }
+            catch (Exception ex)
             {
                 MessageBox.Show(ex.Message);
             }
